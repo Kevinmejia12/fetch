@@ -1,0 +1,73 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+body {
+    background-image: url(/img/fondo3.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    color: white;
+    font-family: sans-serif;
+}
+
+table thead {
+    background-color: #302b63;
+    color: white;
+}
+
+#data {
+    background-color: white;
+    color: black;
+}
+
+#btnsubmit {
+    margin: center;
+    text-align: center;
+    position: relative;
+    padding: 10px 15px;
+    margin-top: 35px;
+    outline: none;
+    background-color: #302b63;
+    color: white;
+    border-radius: 10px;
+}
+
+#btnsubmit:hover {
+    background-color: white;
+    color: #302b63;
+}
+
+@media screen and (max-width:2000px) {
+    #btnsubmit {
+        margin-left: 920px;
+    }
+}
+
+@media screen and (max-width:1700px) {
+    #btnsubmit {
+        margin-left: 750px;
+    }
+}
+
+@media screen and (max-width:1445px) {
+    #btnsubmit {
+        margin-left: 550px;
+    }
+}
+
+@media screen and (max-width:750px) {
+    #btnsubmit {
+        margin-left: 225px;
+    }
+}
+
+@media screen and (max-width:500px) {
+    #btnsubmit {
+        margin-left: 200px;
+    }
+}
