@@ -1,8 +1,9 @@
 # fetch
-getstarted actividad1
+
 
 <div align="center" class="imagenP">
   <img src="img/fondo2.jpg">
+  <p>getstarted actividad1</p>
 </div>
 
 
