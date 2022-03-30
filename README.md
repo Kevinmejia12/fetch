@@ -2,7 +2,6 @@
 getstarted actividad1
 
 <div itemsalign="center" class="imagenP">
-  <script src="main.js"></script>
   <img src="img/fondo2.jpg">
 </div>
 
