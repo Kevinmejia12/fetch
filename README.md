@@ -1,7 +1,5 @@
 # fetch
 getstarted actividad1
-<<<<<<< HEAD
-=======
 <div align=”center”> 
   ![imagen de prueba](../img/star-wars-death-star-at-at-space-wallpaper-preview.jpg)
 </div>
