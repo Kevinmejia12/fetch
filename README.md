@@ -1,7 +1,7 @@
 # fetch
 getstarted actividad1
 <div align=”center”> 
-  ![imagen de prueba](img/star-wars-death-star-at-at-space-wallpaper-preview.jpg)
+  ![imagen de prueba](../img/star-wars-death-star-at-at-space-wallpaper-preview.jpg)
 </div>
 
 ![imagen de prueba](img/star-wars-death-star-at-at-space-wallpaper-preview.jpg)
