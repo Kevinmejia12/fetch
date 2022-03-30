@@ -42,6 +42,22 @@ table thead {
     color: #302b63;
 }
 
+.imagenP img {
+    animation: move-vector 5s linear infinite;
+}
+
+@keyframes move-vector {
+    0% {
+        transform: translatey(15px);
+    }
+    50% {
+        transform: translate(0px);
+    }
+    100% {
+        transform: translatey(15px);
+    }
+}
+
 @media screen and (max-width:2000px) {
     #btnsubmit {
         margin-left: 920px;
