@@ -1,7 +1,7 @@
 # fetch
 getstarted actividad1
 
-<div itemsalign="center" class="imagenP">
+<div align="center" class="imagenP">
   <link rel="stylesheet" href="estilos.css">
   <img src="img/fondo2.jpg">
 </div>
