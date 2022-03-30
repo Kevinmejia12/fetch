@@ -2,7 +2,7 @@
 getstarted actividad1
 <div align=”center”> 
   ![imagen de prueba](img/star-wars-death-star-at-at-space-wallpaper-preview.jpg)
-</di>
+</div>
 
 ![imagen de prueba](img/star-wars-death-star-at-at-space-wallpaper-preview.jpg)
 
