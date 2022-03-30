@@ -1,7 +1,8 @@
 # fetch
 getstarted actividad1
-
-![imagen de prueba](img/star-wars-death-star-at-at-space-wallpaper-preview.jpg)
+<div align=”center”> 
+  ![imagen de prueba](img/star-wars-death-star-at-at-space-wallpaper-preview.jpg)
+ </di>
 
 
 actividad para consumir datos de una api, en este caso swapi(star wars api), en esta primera actividad consumimos los personajes y algunas de sus caracteristicas como son el nombre , genero y demas.
