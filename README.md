@@ -2,8 +2,8 @@
 
 
 <div align="center" class="imagenP">
-  <img src="img/fondo2.jpg">
   <p>getstarted actividad1</p>
+  <img src="img/fondo2.jpg">
 </div>
 
 
