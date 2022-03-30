@@ -46,6 +46,19 @@ table thead {
     animation: move-vector 5s linear infinite;
 }
 
+.loquesea {
+    margin-left: 350px;
+    max-width: 300px;
+    background-color: rgba(77, 103, 139, 0.1);
+    display: flex;
+    padding: 10px 49px;
+    align-items: center;
+}
+
+.loquesea img {
+    width: 200px;
+}
+
 @keyframes move-vector {
     0% {
         transform: translatey(15px);

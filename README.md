@@ -12,3 +12,5 @@ actividad para consumir datos de una api, en este caso swapi(star wars api), en 
 tambien creamos lo que fue el estiloi responsivo para el boton e incluimos archivos css para el diseño de la activad.
 
 por ultimo crear este repositorio remoto para incluir la actividad.
+
+en este readme lo que estaremos encontrando son las actividades de la rama de kevin 
