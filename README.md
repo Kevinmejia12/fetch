@@ -1,6 +1,5 @@
 # fetch
 getstarted actividad1
-
 <div itemsalign=”center”> 
   <img src="img/fondo2.jpg">
 </div>
