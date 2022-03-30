@@ -1,8 +1,8 @@
 # fetch
-getstarted actividad1
+<link rel="stylesheet" href="estilos.css">
 
 <div itemsalign="center" class="imagenP">
-  <link rel="stylesheet" href="estilos.css">
+  <p>get started actividad 1</p>
   <img src="img/fondo2.jpg">
 </div>
 
