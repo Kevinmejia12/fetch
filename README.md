@@ -1,6 +1,6 @@
 # fetch
 getstarted actividad1
-<div itemsalign="center"> 
+<div align="center"> 
   <img src="img/fondo2.jpg">
 </div>
 
